@@ -55,6 +55,7 @@ Topics:
 * What is the difference between a fragment and an activity? Explain the relationship between the two.
 * What is the difference between Serializable and Parcelable? Which is the best approach in Android?
 * What are "launch modes"?
+* What is the difference between SingleTask and SingleInstance.
 * What are Intents? [[info]](http://developer.android.com/guide/components/intents-filters.html)
 * What is an Implicit Intent? [[info]](https://developer.android.com/guide/components/intents-filters.html#ExampleSend)
 * What is an Explicit Intent? [[info]](https://developer.android.com/guide/components/intents-filters.html#ExampleExplicit)
@@ -71,6 +72,7 @@ Topics:
 * Android appplication components [[info]](http://www.tutorialspoint.com/android/android_application_components.htm)
 * What is the relationship between the life cycle of an AsyncTask and an Activity? What problems can this result in? How can these problems be avoided?
 * What is the difference between Service and IntentService? How is each used?
+* Will services unbind on making a call to unbindService.
 * What is a Sticky Intent?
 * What is AIDL? [[info]](https://developer.android.com/guide/components/aidl.html)
 * What is dependency injection? 
@@ -80,6 +82,7 @@ Topics:
 ## Android Design and XML
 * Explain the differences and similarities of Relative Layout and Linear Layout.
 * Explain the differences and similarities of List Views and Grid Views.
+* Explain the difference between Fragments and Views.
 * Describe how to implement XML namespaces.
 * Explain how to present different styles/drawables for a button depending
 on the state of the button (pressed, selected, etc.) using XML (no Java) [[info]](http://developer.android.com/guide/topics/resources/drawable-resource.html#StateList)
